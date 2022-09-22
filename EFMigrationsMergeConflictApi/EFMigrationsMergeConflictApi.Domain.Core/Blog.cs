@@ -4,5 +4,6 @@
     {
         public int BlogId { get; set; }
         public string? Name { get; set; }
+        public int Readers { get; set; }
     }
 }
